@@ -3,11 +3,17 @@ compendium for dealing with point cloud data
 
 ## Software
 
+- [**PDAL - Point Data Abstraction Library**](http://www.pdal.io/) is a C++ BSD library for translating and manipulating point cloud data.
+
+- [**Potree - Visualization in thge browser**](http://www.potree.org/) Popular tool for visualizing point cloud data.
+
 - [**MeshLab**](http://meshlab.sourceforge.net/). Open source, portable, and extensible system for the processing and editing of unstructured 3D triangular meshes
+
 - [**CloudCompare**](http://www.danielgm.net/cc/). 3D point cloud and mesh processing software 
 Open Source Project
+
 - [**PCL - Point Cloud Library**](http://pointclouds.org/) is a standalone, large scale, open project for 2D/3D image and point cloud processing.
-- [**PDAL - Point Data Abstraction Library**](http://www.pdal.io/) is a C++ BSD library for translating and manipulating point cloud data.
+
 - [**libLAS**](http://www.liblas.org/) is a C/C++ library for reading and writing the very common LAS LiDAR format. 
 
 
